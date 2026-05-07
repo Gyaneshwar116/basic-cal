@@ -1,5 +1,6 @@
-def add(a,b):
-    return a+b
+def add(a,b,c):
+    return a+b+c
 a=int(input())
 b=int(input())
-print("Add of a and b:", add(a,b))
+c=int(input())
+print("Add of a and b and c:", add(a,b,c))
