@@ -1,2 +1,1 @@
-
-streamlit @ file:///C:/b/abs_a5vo_b5ysk/croot/streamlit-split_1748963606986/work/streamlit
+streamlit 
